@@ -35,6 +35,8 @@ At the moment we host following experimental systems at **SURFsara**
 
 ### External Collaborations
 
+We are collaborating with **Numerical Analysis, TU Delft** and **Performance analysis research group at University of Amsterdam** to make FPGA usage simple for scientific use cases. Here we are working on using heterogenous compute devices (CPU + GPU + FPGA) to solve advance finite element analysis problem. 
+
 1. [TU Delft, UvA and SURF Open Innovation Lab are  jointly participating in a project exploring heterogeneous computing with FPGAs](https://1drv.ms/w/s!AucV7tPswoDXkGstvW4GxLY-ngwr)
 
 ### Seminars and Workshops
@@ -47,8 +49,13 @@ We did organise several workshops, seminars and external talks and some of them 
 4. ["**Micro-benchmarking and Performance analysis of skylake silver nodes**" deployed in the National LISA cluster](https://docs.google.com/presentation/d/1VbI8bHLwITwqDSOA1URfMHn7kZw2Gx94hg4UnSVIYPE/edit?usp=sharing)
 5. Guest Lunch lecture on "**Hardware based numerics on distributed hardware**" from TU Delft at **University of Amsterdam** (*Slides availalble on-demand*)
 
-We would like to organise more of interactive hands-on workshop to share our experiences for wider research community.
+We are planning to organise more of interactive hands-on workshop to share our experiences for wider research community.
 
 #### Contacts 
 
+Sagar Dolas (sagar.dolas@surfsara.nl) \
+HPC Adviser and Project Lead. 
 
+Dr. Axel berg (axel.berg@surfsara.nl) \
+Manager, 
+SURF Open Innovation Lab
