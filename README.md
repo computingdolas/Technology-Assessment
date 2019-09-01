@@ -5,5 +5,7 @@ Technology assessment initiatives at SURFsara within [**SURF Open Innovation Lab
 As a HPC center, we help researchers to solve challenges associated with their applications on our infrastructure. In this particular initiative, we focus on evaluating, assessing, and benchmarking modern and emerging computing architectures for several application domains such as high performance computing, machine Learning and data visualisation.
 
 
+### Various Initiatives under this project 
 
-
+1. Open Benchmarking \
+Here the focus is not aggregrating several relevant benchmarks to standardised compilation, execution and results extraction in a common framework. The idea is to spend less time organising benchmarks and more time in designing exeuction and qualitative analysis of new computing systems. 
