@@ -51,9 +51,6 @@ We are planning to organise more of interactive hands-on workshop to share our e
 
 #### Contacts 
 
-Sagar Dolas (sagar.dolas@surfsara.nl)\
-HPC Adviser and Project Lead. 
+Project Lead - Sagar Dolas (sagar.dolas@surfsara.nl) 
+Manager, SURF Open Innovation Lab -Dr. Axel berg (axel.berg@surfsara.nl)\
 
-Dr. Axel berg (axel.berg@surfsara.nl)\
-Manager, 
-SURF Open Innovation Lab
