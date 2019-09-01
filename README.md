@@ -13,7 +13,7 @@ As a HPC center, we help researchers to solve challenges associated with their a
 
 ### Open Benchmarking
 
-Here the focus is on aggregrating several relevant benchmarks to standardised compilation, execution and results extraction in a common framework. The idea is to spend less time organising benchmarks and more time in designing new tests, execution and qualitative analysis of new computing systems making the process of benchmarking itself more reproducible, open and community engaging.
+Here the focus is on aggregrating several relevant benchmarks and standardised compilation, execution and results extraction in a common framework. The idea is to spend less time organising benchmarks and more time in designing new tests, execution and qualitative analysis of new computing systems making the process of benchmarking itself more reproducible, open and community engaging.
 	
 We are using [**Reframe**](https://github.com/eth-cscs/reframe), a HPC regression testing framework from [**CSCS**](https://www.cscs.ch) to automate the process of benchmarking new systems and compute architectures. We are working on developing core tests in [**Reframe**](https://github.com/eth-cscs/reframe) and would be making it open source soon. 
 
@@ -24,4 +24,13 @@ Our team here at **SURFsara** would be enthusiastic to include different benchma
 <Diagram to explain>
 
 ### Access to experimental compute resources
+
+With the availability of numerous computing architectures it becomes important to make scientific application as portable as possible. We would like to facilitate researchers across different spectrum of science and engineering to access experimental compute resources and peform compartitve analysis to better understand their computational workloads for uncharted computing systems. 
+
+At the moment we host following experimental systems at **SURFsara**
+
+1. 2x ARM 64 core from Huawei. 
+2. 1x Intel Gold 6128 12c + 1x Nvidia RTX 2080 + 1X U250 Xilinx FPGA. 
+3. 2x AMD EPYC Naples 32C
+4. 1x AMD EPYC Naples 32c + 4 X AMD MI50
 
