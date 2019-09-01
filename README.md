@@ -12,16 +12,14 @@ As a HPC center, we help researchers to solve challenges associated with their a
 
 ### Open Benchmarking
 
-Here the focus is on aggregrating several relevant benchmarks and standardised compilation, execution and results extraction in a common framework. The idea is to spend less time organising benchmarks and more time in designing new tests, execution and qualitative analysis of new computing systems making the process of benchmarking itself more reproducible, open and community engaging.
+Here the focus is on aggregrating several relevant benchmarks and standardise - compilation, execution of tests and results extraction in a common framework for the **hardware and software ecosystem** supporting it. The idea is to spend less time organising benchmarks and more time in designing new tests, execution and qualitative analysis of new computing systems making the process of benchmarking itself more reproducible, open and community engaging.
 	
 We are using [**Reframe**](https://github.com/eth-cscs/reframe), a HPC regression testing framework from [**CSCS**](https://www.cscs.ch) to automate the process of benchmarking new systems and compute architectures. We are working on developing core tests in [**Reframe**](https://github.com/eth-cscs/reframe) and would be making it open source soon. 
 
-The tests pipeline would involve minimal software installation on the remote system and flexible integration of new tests and benchmarks inline with **SURF's** HPC infrastructure. We have been using **Reframe** to test experimental configuration located inside **SURFsara** and **University of Amsterdam** and would also be using it to test **DAS-6** systems. 
+The tests pipeline would involve minimal software installation on the remote system and flexible integration of new tests and benchmarks inline with **SURF's** HPC infrastructure. We have been using **Reframe** to test experimental configuration located inside **SURFsara** and **University of Amsterdam** and would also be using it to test **DAS-6** systems as well. 
 
 Our team here at **SURFsara** would be enthusiastic to include different benchmarks covering different scientific disciplines and domains. 
 	
-<Diagram to explain>
-
 ### Access to experimental compute resources
 
 With the availability of numerous computing architectures it becomes important to make scientific application as portable as possible. We would like to facilitate researchers across different spectrum of science and engineering to access experimental compute resources and peform comparative performance analysis to better understand their computational workloads for uncharted computing systems. 
