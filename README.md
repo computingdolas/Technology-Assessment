@@ -35,18 +35,20 @@ At the moment we host following experimental systems at **SURFsara**
 
 ### External Collaborations
 
-
+1. [TU Delft, UvA and SURF Open Innovation Lab are  jointly participating in a project exploring heterogeneous computing with FPGAs](https://1drv.ms/w/s!AucV7tPswoDXkGstvW4GxLY-ngwr)
 
 ### Seminars and Workshops
 
 We did organise several workshops, seminars and external talks and some of them are listed as follows : 
 
-1. [Building Affordable and Programmable Exascale Capable Supercomputers] (https://www.linkedin.com/pulse/building-affordable-programmable-exascale-capable-sagar-dolas/)
+1. [Building Affordable and Programmable Exascale Capable Supercomputers](https://www.linkedin.com/pulse/building-affordable-programmable-exascale-capable-sagar-dolas/)
 2. [Technology Assessment overview](https://www.youtube.com/watch?v=nR4Z0TsROZc&feature=youtu.be)
-3. [GPU conference NLeSC](http://fmttools.ewi.utwente.nl/NIRICT_GPGPU/events.html)
-4. [Micro-benchmarking and Performance analysis of Skylake Silver nodes deployed in the  National LISA cluster](https://docs.google.com/presentation/d/1VbI8bHLwITwqDSOA1URfMHn7kZw2Gx94hg4UnSVIYPE/edit?usp=sharing)
-5. Guest Lunch lecture on "Hardware based numerics on distributed hardware" from TU Delft at **University of Amsterdam** (*Slides availalble on-demand*)
+3. ["**Exploring the Potential of the ROCm Software Stack for High Performance Computing and Deep Learning on AMD GPUs**" at GPU conference NLeSC](http://fmttools.ewi.utwente.nl/NIRICT_GPGPU/events.html)
+4. ["**Micro-benchmarking and Performance analysis of skylake silver nodes**" deployed in the National LISA cluster](https://docs.google.com/presentation/d/1VbI8bHLwITwqDSOA1URfMHn7kZw2Gx94hg4UnSVIYPE/edit?usp=sharing)
+5. Guest Lunch lecture on "**Hardware based numerics on distributed hardware**" from TU Delft at **University of Amsterdam** (*Slides availalble on-demand*)
 
-We would like to organise more of these workshops in future with intention of diffusing as much as information as possible. 
+We would like to organise more of interactive hands-on workshop to share our experiences for wider research community.
+
+#### Contacts 
 
 
