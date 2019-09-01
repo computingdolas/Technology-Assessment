@@ -15,7 +15,7 @@ As a HPC center, we help researchers to solve challenges associated with their a
 
 Here the focus is on aggregrating several relevant benchmarks to standardised compilation, execution and results extraction in a common framework. The idea is to spend less time organising benchmarks and more time in designing exeuction and qualitative analysis of new computing systems making the process of benchmarking more reproducible, open and community engaging.
 	
-We are using (**Reframe**)[https://github.com/eth-cscs/reframe], a HPC regression testing framework from (**CSCS**)[https://www.cscs.ch] to automate the process of benchmarking new systems and compute architectures. 
+We are using [**Reframe**](https://github.com/eth-cscs/reframe), a HPC regression testing framework from [**CSCS**](https://www.cscs.ch) to automate the process of benchmarking new systems and compute architectures. 
 	
 <Diagram to explain>
 
