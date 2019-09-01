@@ -18,6 +18,8 @@ Here the focus is on aggregrating several relevant benchmarks to standardised co
 We are using [**Reframe**](https://github.com/eth-cscs/reframe), a HPC regression testing framework from [**CSCS**](https://www.cscs.ch) to automate the process of benchmarking new systems and compute architectures. We are working on developing core tests in [**Reframe**](https://github.com/eth-cscs/reframe) and would be making it open source soon. 
 
 The tests pipeline would involve minimal software installation on the remote system and flexible integration of new tests and benchmarks inline with **SURF's** HPC infrastructure. We have been using **Reframe** to test experimental configuration located inside **SURFsara** and **University of Amsterdam** and would also be using it to test **DAS-6** systems. 
+
+Our team here at **SURFsara** would be enthusiastic to include different benchmarks covering different scientific disciplines and domains. 
 	
 <Diagram to explain>
 
